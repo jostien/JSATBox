@@ -12,11 +12,11 @@ Requirements
 Some SAT solver is needed, which is to be placed to an analogous location as
 indicated in the example files. That is, exchange
 
-<path_to_minisat>
+\<path_to_minisat\>
 
 and
 
-<path_to_result_dir>
+\<path_to_result_dir\>
 
 correspondingly. A good starting point is MiniSAT:
 
